@@ -3,8 +3,8 @@
 //or copy the codes/script,
 //pls give credit
 //no credit? i will take action immediately
-//© 2022 Xeon Bot Inc. Cheems Bot MD
-//Thank you to Lord Buddha, Family and Myself
+//© 2023 StarNora Bot Inc. StarNora Bot
+//Thank you to Lord, Family and Myself
 //════════════════════════════//
 //recode kar ke youtube pe upload kar rhe hai ya
 //codes copy kar ke apne script me dal rhe
@@ -16,7 +16,7 @@
 //If you recode and uploading on your channel
 //or copy pasting the codes in ur script, 
 //i give permission to do as long as you
-//put Xeons youtube channel link in the video
+//put StarNora youtube channel link in the video
 //description and tag me on githuh repo, 
 //thank you🦄
 //════════════════════════════//
@@ -43,7 +43,7 @@ global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //semt menu variants
-global.vidmenu = fs.readFileSync("./XeonMedia/theme/Cheems-bot.mp4") //gif and video menu
+global.vidmenu = fs.readFileSync("./StarNoraMedia/theme/StarNora-bot.mp4") //gif and video menu
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -54,32 +54,32 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.vcardowner = ['263 788729395'] //ur owner number
+global.ownername = "Cyber StarNora" //ur owner name
+global.ytname = "YT: Cyber StarNora" //ur yt chanel name
+global.socialm = "GitHub: Cyber StarNora" //ur github or insta name
+global.location = "Zimbabwe, Hwange, Ingagula" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213']
-global.ownertag = '916909137213' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
+global.owner = ['263 788729395']
+global.ownertag = [263 788729395' //ur tag number
+global.botname = 'StarNora Bot  V4' //ur bot name
+global.linkz = "https://youtu.be/cyberstarnora" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtu.be/cyberstarnora6@blogspot.com" //ur website to be displayed
+global.botscript = 'https://github.com/Cyber StarNora/StarNoraBot-MD4' //script link
 global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
+global.themeemoji = "🌐" //ur theme emoji
+global.packname = "StarNora Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🌐🌐🌐 " //ur sticker watermark packname
+global.author = "Cyber StarNora" //ur sticker watermark author
 
 //Bot theme media
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("./StarNoraMedia/theme/StarNorapic.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./StarNoraMedia/theme/StarNorapic.jpg") //ur logo pic
+global.err4r = fs.readFileSync("./StarNoraMedia/theme/StarNorapic.jpg") //ur error pic
+global.thumb = fs.readFileSync("./StarNoraMedia/theme/StarNorapic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['916909137213'] //ur premium numbers
+global.premium = ['263 788729395'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -133,7 +133,7 @@ global.mess = {
    umpanawal: 5,
    potionawal: 1
 }
-global.thumb = fs.readFileSync('./XeonMedia/theme/cheemspic.jpg')
+global.thumb = fs.readFileSync('./StarNoraMedia/theme/cheemspic.jpg')
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
